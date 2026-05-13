@@ -46,7 +46,7 @@
     --background-image: var(--wallpaper);
     --bg-opacity: 100%;
     /*bg dev suggestions*/
-    --wallpaper: url("https://warrayquipsome.github.io/Chillax/Wallpapers/chillax-default.png");
+    --wallpaper: url("https://i.ibb.co/VptV3VvF/144648567-p0.jpg");
     /*modern background selection*/
     --modern-dark-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-dark-bg.png");
     --modern-light-bg: url("https://warrayquipsome.github.io/Chillax/Wallpapers/modern-light-bg.png");
@@ -100,9 +100,9 @@
 
     /* For accent color to take full effect must need to change both */
     /* chillax colours rgb */
-    --accentcolor: 251, 84, 84;
+    --accentcolor:  	 	90, 90, 90;
     /* chillax colours hex */
-    --accentcolorV2: #fb5454;
+    --accentcolorV2: #5a5a5a;
 
 
     /* settings modal root */
