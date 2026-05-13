@@ -345,7 +345,7 @@ html.theme-light #vc-spotify-player {
     background-image: var(--vc-spotify-track-image);
     background-size: cover;
     background-position: center;
-    filter: blur(1px);
+    filter: blur(.2px);
     opacity: .6;
     z-index: 0;
 }
